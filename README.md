@@ -9,8 +9,9 @@ EIGHT BALL END POINT
 THIS PROGRAM WILL MAKE IT SO THAT THE USER CAN ENTER A STRING. AND ON POSTMAN IT WILL REPSOND WITH THE USERS FORTUNE FROM THE EIGHT BALL. 
 
 PEER REVIEW: JESSIE LAMZON - CODE RAN WELL AND WITHOUT ERRORS.  I REALLY LIKE HOW CLEAN THE CODE LOOKS AND IS NICE AND SIMPLE.  GOOD JOB
+
+HOW DO I ACCESS IT ? 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-The description of what the program does is above. Now to access it. 
 
 STEP 1: You will need to press the green button labeled "code (it's just above this readme). Tap it, and make sure the HTTPS part is highlighted (if not then press HTTPS).  Under that, you will see a link, copy it. 
 
