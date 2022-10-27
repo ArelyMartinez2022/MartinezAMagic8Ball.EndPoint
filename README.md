@@ -6,12 +6,9 @@ OCT 25, 2022 9:30PM
 
 EIGHT BALL END POINT 
 
-THIS PROGRAM WILL MAKE IT SO THAT THE USER 
-CAN ENTER A STRING. AND ON POSTMAN IT WILL 
-REPSOND WITH THE USERS FORTUNE FROM THE EIGHT BALL.
-PEER REVIEW: JESSIE LAMZON - CODE RAN WELL AND WITHOUT 
-ERRORS.  I REALLY LIKE HOW CLEAN THE CODE LOOKS AND IS 
-NICE AND SIMPLE.  GOOD JOB
+THIS PROGRAM WILL MAKE IT SO THAT THE USER CAN ENTER A STRING. AND ON POSTMAN IT WILL REPSOND WITH THE USERS FORTUNE FROM THE EIGHT BALL. 
+
+PEER REVIEW: JESSIE LAMZON - CODE RAN WELL AND WITHOUT ERRORS.  I REALLY LIKE HOW CLEAN THE CODE LOOKS AND IS NICE AND SIMPLE.  GOOD JOB
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 The description of what the program does is above. Now to access it. 
 
@@ -23,4 +20,4 @@ STEP 3: Make sure you click trust the author as you open it. Now that it's open 
 
 STEP 4: Open up postman (if you haven't already downloaded so). There should be a 'My workspace' tab (it has a big front and it's on the right side. Above  'My workspace' there should be a '+' button, press it. Now there should be a 'GET' button and next to that enter a request URL where you will copy this into  'https://localhost:7082/new/ball' (that is the URL to access my program). Is it pasted in there? Great, now press send. 
 
-STEP 5: There should be a body just below that with text. Read it, Now add another '/' after the URL link with your input to that question. If your having trouble look at this as an example 'https://localhost:7082/new/ball/will i get my dream house soon' 
+STEP 5: There should be a body just below that with text. Read it, Now add another '/' after the URL link with your input to that question. If your having trouble look at this as an example 'https://localhost:7082/new/ball/will i get my dream house soon'. If you look a little under that you should see your response (Like i mentioned in the body). Try entering different questions in and see what your outcome is. GoodLuck !!
